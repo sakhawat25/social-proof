@@ -37,7 +37,7 @@ Users should be able to:
 - Semantic HTML5 markup
 - Flexbox
 - Desktop-first workflow
-  Sass
+- Sass
 
 ### What I learned
 
