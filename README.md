@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/social-proof-section-rIWa8tlEdn](https://www.frontendmentor.io/solutions/social-proof-section-rIWa8tlEdn)
+- Live Site URL: [https://sakhawat25.github.io/social-proof/](https://sakhawat25.github.io/social-proof/)
 
 ## My process
 
@@ -45,5 +45,5 @@ In this challange, I was able to learn some key features about front-end develop
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- github - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@sakhawat25](https://www.frontendmentor.io/profile/sakhawat25)
+- github - [@sakhawat25](https://github.com/sakhawat25)
